@@ -1,0 +1,11 @@
+html {
+    font-size: 28px;
+    font-family: 'Helvetica';
+    vertical-align: auto;
+    color: #CC1F00;
+    background-color: #FFFBCC;
+}
+
+div {
+    margin: 10ex;
+}
